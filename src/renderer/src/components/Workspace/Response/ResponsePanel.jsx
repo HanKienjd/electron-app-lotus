@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
 import prettyBytes from 'pretty-bytes';
+import { useEffect, useState } from 'react';
 
 import ResponseTabGroup from '../../Tab-Groups/ResponseTabGroup';
 
